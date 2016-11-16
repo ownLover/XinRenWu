@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>【Base】★★★★★★★★★★★★★★★★★★★★</key>
+	<string>【Base】★★★★★★★★★★★★★★★★★★★★</string>
+	<key>btn_Refresh</key>
+	<string>Base/btn_Refresh.png</string>
+	<key>navBarBackgroud7</key>
+	<string>Base/navBarBackgroud7.png</string>
+	<key>navBarBackgroud</key>
+	<string>Base/navBarBackgroud.png</string>
+	<key>btn_NavBack1</key>
+	<string>Base/btn_NavBack1.png</string>
+	<key>btn_NavBack2</key>
+	<string>Base/btn_NavBack2.png</string>
+	<key>btn_NavBack3</key>
+	<string>Base/btn_NavBack3.png</string>
+	<key>btn_NavDoneDefaultH</key>
+	<string>Base/btn_NavDoneDefaultH.png</string>
+	<key>btn_NavDoneDefaultN</key>
+	<string>Base/btn_NavDoneDefaultN.png</string>
+	<key>btn_NavBackDefaultH</key>
+	<string>Base/btn_NavBackDefaultH.png</string>
+	<key>btn_NavBackDefaultN</key>
+	<string>Base/btn_NavBackDefaultH.png</string>
+	<key>【TableView】★★★★★★★★★★★★★★★★★★★★</key>
+	<string>【TableView】★★★★★★★★★★★★★★★★★★★★</string>
+	<key>TableViewCellGroup_Single</key>
+	<string>TableView/TableViewCellGroup_Single.png</string>
+	<key>TableViewCellGroup_SingleH</key>
+	<string>TableView/TableViewCellGroup_SingleH.png</string>
+	<key>TableViewCellGroup_Min</key>
+	<string>TableView/TableViewCellGroup_Min.png</string>
+	<key>TableViewCellGroup_MinH</key>
+	<string>TableView/TableViewCellGroup_MinH.png</string>
+	<key>TableViewCellGroup_Middle</key>
+	<string>TableView/TableViewCellGroup_Middle.png</string>
+	<key>TableViewCellGroup_MiddleH</key>
+	<string>TableView/TableViewCellGroup_MiddleH.png</string>
+	<key>TableViewCellGroup_Max</key>
+	<string>TableView/TableViewCellGroup_Max.png</string>
+	<key>TableViewCellGroup_MaxH</key>
+	<string>TableView/TableViewCellGroup_MaxH.png</string>
+	<key>TableViewCellGroup07_Single</key>
+	<string>TableView/TableViewCellGroup07_Single.png</string>
+	<key>TableViewCellGroup07_SingleH</key>
+	<string>TableView/TableViewCellGroup07_SingleH.png</string>
+	<key>TableViewCellGroup07_Min</key>
+	<string>TableView/TableViewCellGroup07_Min.png</string>
+	<key>TableViewCellGroup07_MinH</key>
+	<string>TableView/TableViewCellGroup07_MinH.png</string>
+	<key>TableViewCellGroup07_Middle</key>
+	<string>TableView/TableViewCellGroup07_Middle.png</string>
+	<key>TableViewCellGroup07_MiddleH</key>
+	<string>TableView/TableViewCellGroup07_MiddleH.png</string>
+	<key>TableViewCellGroup07_Max</key>
+	<string>TableView/TableViewCellGroup07_Max.png</string>
+	<key>TableViewCellGroup07_MaxH</key>
+	<string>TableView/TableViewCellGroup07_MaxH.png</string>
+	<key>★★★★★★★★★★华丽分割线★★★★★★★★★★</key>
+	<string>★★★★★★★★★★华丽分割线★★★★★★★★★★</string>
+	<key>★★★★★★★★★★结束分割线★★★★★★★★★★</key>
+	<string>★★★★★★★★★★结束分割线★★★★★★★★★★</string>
+</dict>
+</plist>
